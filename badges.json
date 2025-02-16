@@ -1,0 +1,893 @@
+[
+  {
+    "id": -1,
+    "name": "chest",
+    "achieved": false,
+    "image": "",
+    "description": "",
+    "children": [
+      {
+        "id": 1,
+        "name": "Do five push-ups",
+        "achieved": false,
+        "image": "/image/badge/1.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 2,
+            "name": "Do ten push-ups",
+            "achieved": false,
+            "image": "/image/badge/2.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 3,
+                "name": "Do twenty push-ups",
+                "achieved": false,
+                "image": "/image/badge/3.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 4,
+                    "name": "Do thirty push-ups",
+                    "achieved": false,
+                    "image": "/image/badge/4.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 5,
+                        "name": "Do fifty push-ups",
+                        "achieved": false,
+                        "image": "/image/badge/5.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 6,
+                            "name": "Do a hundred push-ups",
+                            "achieved": false,
+                            "image": "/image/badge/6.svg",
+                            "description": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "name": "Bench press 20kg for 10 reps",
+                "achieved": false,
+                "image": "/image/badge/7.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 8,
+                    "name": "Bench press 30kg for 10 reps",
+                    "achieved": false,
+                    "image": "/image/badge/8.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 9,
+                        "name": "Bench press 40kg for 10 reps",
+                        "achieved": false,
+                        "image": "/image/badge/9.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 10,
+                            "name": "Bench press 60kg for 10 reps",
+                            "achieved": false,
+                            "image": "/image/badge/10.svg",
+                            "description": "",
+                            "children": [
+                              {
+                                "id": 11,
+                                "name": "Bench press 80kg for 5 reps",
+                                "achieved": false,
+                                "image": "/image/badge/11.svg",
+                                "description": "",
+                                "children": [
+                                  {
+                                    "id": 12,
+                                    "name": "Bench press 100kg for 5 reps",
+                                    "achieved": false,
+                                    "image": "/image/badge/12.svg",
+                                    "description": "",
+                                    "children": [
+                                      {
+                                        "id": 13,
+                                        "name": "Bench press 120kg for 5 reps",
+                                        "achieved": false,
+                                        "image": "/image/badge/13.svg",
+                                        "description": "",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 14,
+                "name": "Do five chest dips",
+                "achieved": false,
+                "image": "/image/badge/14.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 15,
+                    "name": "Do ten chest dips",
+                    "achieved": false,
+                    "image": "/image/badge/15.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 16,
+                        "name": "Do twenty chest dips",
+                        "achieved": false,
+                        "image": "/image/badge/16.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 17,
+                            "name": "Do thirty chest dips",
+                            "achieved": false,
+                            "image": "/image/badge/17.svg",
+                            "description": "",
+                            "children": [
+                              {
+                                "id": 18,
+                                "name": "Do fifty chest dips",
+                                "achieved": false,
+                                "image": "/image/badge/18.svg",
+                                "description": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": -2,
+    "name": "arms",
+    "achieved": false,
+    "image": "",
+    "description": "",
+    "children": [
+      {
+        "id": 19,
+        "name": "Biceps curl 8kg dumbbell",
+        "achieved": false,
+        "image": "/image/badge/19.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 20,
+            "name": "Biceps curl 10kg dumbbell",
+            "achieved": false,
+            "image": "/image/badge/20.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 21,
+                "name": "Biceps curl 12kg dumbbell",
+                "achieved": false,
+                "image": "/image/badge/21.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 22,
+                    "name": "Biceps curl 16kg dumbbell",
+                    "achieved": false,
+                    "image": "/image/badge/22.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 23,
+                        "name": "Biceps curl 20kg dumbbell",
+                        "achieved": false,
+                        "image": "/image/badge/23.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 24,
+                            "name": "Biceps curl 25kg dumbbell",
+                            "achieved": false,
+                            "image": "/image/badge/24.svg",
+                            "description": "",
+                            "children": [
+                              {
+                                "id": 25,
+                                "name": "Biceps curl 30kg dumbbell",
+                                "achieved": false,
+                                "image": "/image/badge/25.svg",
+                                "description": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Shoulder press with 6kg",
+        "achieved": false,
+        "image": "/image/badge/26.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 27,
+            "name": "Shoulder press with 10kg",
+            "achieved": false,
+            "image": "/image/badge/27.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 28,
+                "name": "Shoulder press with 14kg",
+                "achieved": false,
+                "image": "/image/badge/28.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 29,
+                    "name": "Shoulder press with 18kg",
+                    "achieved": false,
+                    "image": "/image/badge/29.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 30,
+                        "name": "Shoulder press with 22kg",
+                        "achieved": false,
+                        "image": "/image/badge/30.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 31,
+                            "name": "Shoulder press with 26kg",
+                            "achieved": false,
+                            "image": "/image/badge/31.svg",
+                            "description": "",
+                            "children": [
+                              {
+                                "id": 32,
+                                "name": "Shoulder press with 30kg",
+                                "achieved": false,
+                                "image": "/image/badge/32.svg",
+                                "description": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Lateral raises with 4kg",
+        "achieved": false,
+        "image": "/image/badge/33.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 34,
+            "name": "Lateral raises with 8kg",
+            "achieved": false,
+            "image": "/image/badge/34.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 35,
+                "name": "Lateral raises with 10kg",
+                "achieved": false,
+                "image": "/image/badge/35.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 36,
+                    "name": "Lateral raises with 12kg",
+                    "achieved": false,
+                    "image": "/image/badge/36.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 37,
+                        "name": "Lateral raises with 14kg",
+                        "achieved": false,
+                        "image": "/image/badge/37.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 38,
+                            "name": "Lateral raises with 16kg",
+                            "achieved": false,
+                            "image": "/image/badge/38.svg",
+                            "description": "",
+                            "children": [
+                              {
+                                "id": 39,
+                                "name": "Lateral raises with 20kg",
+                                "achieved": false,
+                                "image": "/image/badge/39.svg",
+                                "description": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": -3,
+    "name": "back",
+    "achieved": false,
+    "image": "",
+    "description": "",
+    "children": [
+      {
+        "id": 40,
+        "name": "Do five pull-ups",
+        "achieved": false,
+        "image": "/image/badge/40.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 41,
+            "name": "Do ten pull-ups",
+            "achieved": false,
+            "image": "/image/badge/41.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 42,
+                "name": "Do twenty pull-ups",
+                "achieved": false,
+                "image": "/image/badge/42.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 43,
+                    "name": "Do thirty pull-ups",
+                    "achieved": false,
+                    "image": "/image/badge/43.svg",
+                    "description": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Lat pull-down with 20kg",
+        "achieved": false,
+        "image": "/image/badge/44.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 45,
+            "name": "Lat pull-down with 30kg",
+            "achieved": false,
+            "image": "/image/badge/45.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 46,
+                "name": "Lat pull-down with 40kg",
+                "achieved": false,
+                "image": "/image/badge/46.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 47,
+                    "name": "Lat pull-down with 50kg",
+                    "achieved": false,
+                    "image": "/image/badge/47.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 48,
+                        "name": "Lat pull-down with 60kg",
+                        "achieved": false,
+                        "image": "/image/badge/48.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 49,
+                            "name": "Lat pull-down with 70kg",
+                            "achieved": false,
+                            "image": "/image/badge/49.svg",
+                            "description": "",
+                            "children": [
+                              {
+                                "id": 50,
+                                "name": "Lat pull-down with 80kg",
+                                "achieved": false,
+                                "image": "/image/badge/50.svg",
+                                "description": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": -4,
+    "name": "legs",
+    "achieved": false,
+    "image": "",
+    "description": "",
+    "children": [
+      {
+        "id": 51,
+        "name": "Squat 20kg for 10 reps",
+        "achieved": false,
+        "image": "/image/badge/51.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 52,
+            "name": "Squat 30kg for 10 reps",
+            "achieved": false,
+            "image": "/image/badge/52.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 53,
+                "name": "Squat 40kg for 10 reps",
+                "achieved": false,
+                "image": "/image/badge/53.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 54,
+                    "name": "Squat 60kg for 10 reps",
+                    "achieved": false,
+                    "image": "/image/badge/54.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 55,
+                        "name": "Squat 80kg for 10 reps",
+                        "achieved": false,
+                        "image": "/image/badge/55.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 56,
+                            "name": "Squat 100kg for 5 reps",
+                            "achieved": false,
+                            "image": "/image/badge/56.svg",
+                            "description": "",
+                            "children": [
+                              {
+                                "id": 57,
+                                "name": "Squat 120kg for 5 reps",
+                                "achieved": false,
+                                "image": "/image/badge/57.svg",
+                                "description": "",
+                                "children": [
+                                  {
+                                    "id": 58,
+                                    "name": "Squat 150kg for 5 reps",
+                                    "achieved": false,
+                                    "image": "/image/badge/58.svg",
+                                    "description": "",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": -5,
+    "name": "core",
+    "achieved": false,
+    "image": "",
+    "description": "",
+    "children": [
+      {
+        "id": 59,
+        "name": "Do ten abdominal crunches in a row",
+        "achieved": false,
+        "image": "/image/badge/59.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 60,
+            "name": "Do twenty-five abdominal crunches in a row",
+            "achieved": false,
+            "image": "/image/badge/60.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 61,
+                "name": "Do fifty abdominal crunches in a row",
+                "achieved": false,
+                "image": "/image/badge/61.svg",
+                "description": "",
+                "children": []
+              },
+              {
+                "id": 62,
+                "name": "Loaded abdominal crunches with 10kg for 10 reps",
+                "achieved": false,
+                "image": "/image/badge/62.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 63,
+                    "name": "Loaded abdominal crunches with 20kg for 10 reps",
+                    "achieved": false,
+                    "image": "/image/badge/63.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 64,
+                        "name": "Loaded abdominal crunches with 30kg for 10 reps",
+                        "achieved": false,
+                        "image": "/image/badge/64.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 65,
+                            "name": "Loaded abdominal crunches with 50kg for 10 reps",
+                            "achieved": false,
+                            "image": "/image/badge/65.svg",
+                            "description": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": -6,
+    "name": "consistency",
+    "achieved": false,
+    "image": "",
+    "description": "",
+    "children": [
+      {
+        "id": 66,
+        "name": "The first week",
+        "achieved": false,
+        "image": "/image/badge/66.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 67,
+            "name": "4 weeks streak",
+            "achieved": false,
+            "image": "/image/badge/67.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 68,
+                "name": "10 weeks streak",
+                "achieved": false,
+                "image": "/image/badge/68.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 69,
+                    "name": "20 weeks streak",
+                    "achieved": false,
+                    "image": "/image/badge/69.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 70,
+                        "name": "50 weeks streak",
+                        "achieved": false,
+                        "image": "/image/badge/70.svg",
+                        "description": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 71,
+            "name": "First month",
+            "achieved": false,
+            "image": "/image/badge/71.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 72,
+                "name": "Reach 100 gym sessions",
+                "achieved": false,
+                "image": "/image/badge/72.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 73,
+                    "name": "Reach 200 gym sessions",
+                    "achieved": false,
+                    "image": "/image/badge/73.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 74,
+                        "name": "Reach 500 gym sessions",
+                        "achieved": false,
+                        "image": "/image/badge/74.svg",
+                        "description": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 75,
+                "name": "Six months",
+                "achieved": false,
+                "image": "/image/badge/75.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 76,
+                    "name": "First year!",
+                    "achieved": false,
+                    "image": "/image/badge/76.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 77,
+                        "name": "Two years",
+                        "achieved": false,
+                        "image": "/image/badge/77.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 78,
+                            "name": "Three years",
+                            "achieved": false,
+                            "image": "/image/badge/78.svg",
+                            "description": "",
+                            "children": [
+                              {
+                                "id": 79,
+                                "name": "Five years",
+                                "achieved": false,
+                                "image": "/image/badge/79.svg",
+                                "description": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": -7,
+    "name": "social",
+    "achieved": false,
+    "image": "",
+    "description": "",
+    "children": [
+      {
+        "id": 80,
+        "name": "Get to the top 500 at the Global Ranking",
+        "achieved": false,
+        "image": "/image/badge/80.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 81,
+            "name": "Get to the top 100 at the Global Ranking",
+            "achieved": false,
+            "image": "/image/badge/81.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 82,
+                "name": "Get to the top 50 at the Global Ranking",
+                "achieved": false,
+                "image": "/image/badge/82.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 83,
+                    "name": "Get to the top 10 at the Global Ranking",
+                    "achieved": false,
+                    "image": "/image/badge/83.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 84,
+                        "name": "Get to the top 3 at the Global Ranking",
+                        "achieved": false,
+                        "image": "/image/badge/84.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 85,
+                            "name": "Get to the top 1 at the Global Ranking",
+                            "achieved": false,
+                            "image": "/image/badge/85.svg",
+                            "description": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Add your first friend",
+        "achieved": false,
+        "image": "/image/badge/86.svg",
+        "description": "",
+        "children": [
+          {
+            "id": 87,
+            "name": "Add five friends",
+            "achieved": false,
+            "image": "/image/badge/87.svg",
+            "description": "",
+            "children": [
+              {
+                "id": 88,
+                "name": "Add ten friends",
+                "achieved": false,
+                "image": "/image/badge/88.svg",
+                "description": "",
+                "children": [
+                  {
+                    "id": 89,
+                    "name": "Add twenty friends",
+                    "achieved": false,
+                    "image": "/image/badge/89.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 90,
+                        "name": "Reach the podium at the Friends Ranking with at least 20 friends",
+                        "achieved": false,
+                        "image": "/image/badge/90.svg",
+                        "description": "",
+                        "children": [
+                          {
+                            "id": 91,
+                            "name": "Get to the top at the Friends Ranking with at least 20 friends",
+                            "achieved": false,
+                            "image": "/image/badge/91.svg",
+                            "description": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": 92,
+                    "name": "Reach the podium at the Friends Ranking with at least 10 friends",
+                    "achieved": false,
+                    "image": "/image/badge/92.svg",
+                    "description": "",
+                    "children": [
+                      {
+                        "id": 93,
+                        "name": "Get to the top at the Friends Ranking with at least 10 friends",
+                        "achieved": false,
+                        "image": "/image/badge/93.svg",
+                        "description": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 94,
+                "name": "Get to the top at the Friends Ranking with at least 5 friends",
+                "achieved": false,
+                "image": "/image/badge/94.svg",
+                "description": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

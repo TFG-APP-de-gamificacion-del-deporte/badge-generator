@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "title": "First month",
+  "children": [
+    {
+      "id": 2,
+      "title": "Reach 100 gym sessions",
+      "children": [
+        {
+          "id": 3,
+          "title": "Reach 200 gym sessions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Six months",
+      "children": [
+        {
+          "id": 5,
+          "title": "First year!",
+          "children": [
+            {
+              "id": 6,
+              "title": "Two years",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
